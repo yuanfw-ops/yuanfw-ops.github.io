@@ -1,10 +1,8 @@
-# Your Name
+# Yuanfan Wang
 
-your.name@example.com
+wangyuanfan0302@gmail.com
 
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
+https://www.linkedin.com/in/yuanfan-wang-74593623b/
 
 # Summary
 
