@@ -14,7 +14,7 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 * [University of Washington][] description, particularly if not well-known.*
 
-** Bachelor of Arts - Geography (include alternate titles in parentheses)** (Start Date - End Date)
+** Bachelor of Arts - Geography 2022.09-2026.06
 
 Summary of your role
 
