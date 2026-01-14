@@ -24,7 +24,7 @@ Summary of your role
 - Accomplishment
 
 ## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+*[University][] description, particularly if not well-known.*
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
