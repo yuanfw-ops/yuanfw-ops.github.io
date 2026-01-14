@@ -24,7 +24,7 @@ Summary of your role
 - Accomplishment
 
 ## University Name 2 (City, State)
-*[University][] description, particularly if not well-known.*
+*[University 2][] description, particularly if not well-known.*
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
@@ -48,6 +48,6 @@ Summary of your role
 - Accomplishment
 
 
-[University 1]: http://www.univ1.edu
+[University of Washington]: http://www.washington.edu
 [University 2]: http://www.univ2.edu
 [University 3]: http://www.univ3.edu
