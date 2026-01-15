@@ -6,7 +6,7 @@ https://www.linkedin.com/in/yuanfan-wang-74593623b/
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+> This is a summary
 
 # Education Experience
 
@@ -16,14 +16,12 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 
 ** Bachelor of Arts - Geography 2022.09-2026.06
 
-Summary of your role
+Course taken
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- GEOG 328
+- GEOG 458
+- GEOG 315
+- GEOG 482
 
 
 [University of Washington]: http://www.washington.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
