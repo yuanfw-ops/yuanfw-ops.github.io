@@ -11,6 +11,7 @@ https://www.linkedin.com/in/yuanfan-wang-74593623b/
 # Education Experience
 
 ## University of Washington (Seattle, Washington)
+![UW](https://escience.washington.edu/wp-content/uploads/2022/10/UW-square-logo.jpg)
 
 * [University of Washington][] description, particularly if not well-known.*
 
